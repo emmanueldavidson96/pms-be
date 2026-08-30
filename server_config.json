@@ -1,0 +1,11 @@
+{
+  "port": 8080,
+  "db_config": {
+    "db": "postgres",
+    "username": "root",
+    "password": "dunamis45xi1473jk;asdf",
+    "host": "localhost",
+    "port": 5432,
+    "dbname": "pms"
+  }
+}
